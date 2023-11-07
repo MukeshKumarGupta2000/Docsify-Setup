@@ -4,9 +4,8 @@
 Open Terminal in Ubuntu by pressing **Ctrl+alt+t** button combinations.
 
 
-~~~
-Ctrl+Alt+t
-~~~
+**Ctrl+Alt+t**
+
 
 **Step :2**
  
